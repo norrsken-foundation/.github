@@ -2,10 +2,10 @@
 
 Welcome to the Norrsken Foundation's GitHub organization! 
 
-We are a Swedish non-profit foundation dedicated to making a positive impact on society by supporting and empowering impact entrepreneurs. Our mission is to turn entrepreneurs into changemakers and help them build solutions to the world's greatest challenges.
+We are a non-profit foundation built on the belief that entrepreneur­ship and technology can be forces for good.
 
-Learn more about our work, programs, and community at [norrsken.org](https://www.norrsken.org/).
+We are building a global ecosystem that gives founders the knowledge, capital and network they need, to make saving the planet their business.
 
----
+Because if they win, we all win.
 
-This repository contains shared GitHub configurations and resources for the Norrsken Foundation organization.
+Learn more about our ecosystem at [norrsken.org](https://www.norrsken.org/).
