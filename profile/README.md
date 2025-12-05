@@ -1,12 +1,11 @@
-## Hi there 👋
+# Norrsken Foundation
 
-<!--
+Welcome to the Norrsken Foundation's GitHub organization! 
 
-**Here are some ideas to get you started:**
+We are a non-profit foundation built on the belief that entrepreneur­ship and technology can be forces for good.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We are building a global ecosystem that gives founders the knowledge, capital and network they need, to make saving the planet their business.
+
+Because if they win, we all win.
+
+Learn more about our ecosystem at [norrsken.org](https://www.norrsken.org/).
